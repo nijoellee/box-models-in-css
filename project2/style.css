@@ -1,0 +1,23 @@
+.box{
+    border: 1px solid grey;
+    width:550px;
+    padding: 30px 30px;
+    margin: 300px auto;
+    background-color: white;
+    font-family:monospace;
+    border-radius: 10px;
+}
+.t1{
+    color:black;
+}
+.t2{
+    color: grey;
+}
+.t3{
+    color:rgb(50, 197, 255);
+}
+.box-img{
+    width:20%;
+    border-radius: 14px;
+    padding: 30px 35px;
+}
